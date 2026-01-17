@@ -1,6 +1,7 @@
 # Based off Tony Banters alacritty config (TokyoNight colors)
 [window]
 opacity=0.9
+blur=true
 
 [window.padding]
 y = 6 
